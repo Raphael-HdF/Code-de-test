@@ -1,0 +1,4 @@
+INFO:root:Ran with args: ('Salut',), and kwargs: {'nom': 'Chaton'}
+INFO:root:Ran with args: ('Lol',), and kwargs: {'nom': 'Chaton'}
+INFO:root:Ran with args: ('Lol',), and kwargs: {'nom': 'Chaton'}
+INFO:root:Ran with args: ('Lol',), and kwargs: {'nom': 'Chaton'}
